@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Wpf_MapControl_MiniMapVideo/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_MiniMapVideo/MainWindow.xaml))
+<!-- default file list end -->
 # MapControl  - Mini Map Video Application
 
 
